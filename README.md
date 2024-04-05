@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikhilesh-Kushwaha
-- 👀 I’m interested in Coding and Development
-- 🌱 I’m currently learning MERN Stack Development
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 👀 I’m interested in Cloud & Devops
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on Devops Projects
 - 📫 How to reach me nikhileshkush73@gmail.com
 
 <!---
